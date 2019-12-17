@@ -1,0 +1,3 @@
+Rencana pengembangan aplikasi smile :
+- edit dashboard
+-- simple, mobile friendly
