@@ -1,4 +1,4 @@
 Rencana pengembangan aplikasi smile :
 - edit dashboard
 -- simple, mobile friendly
--- menu tambah pegawai langsung terlihat di dashboard
+-- menu tambah pekerjaan langsung terlihat di dashboard
